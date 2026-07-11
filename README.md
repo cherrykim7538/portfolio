@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dhatri Pothula Academic Portfolio
 
 This is a clean academic portfolio website for a first-year Data Science student and aspiring Data Analyst.
@@ -34,3 +35,6 @@ Your portfolio URL will be:
 ```text
 https://cherrykim7538.github.io/
 ```
+=======
+# portfolio
+>>>>>>> 41efcf8d7b8532bf90527709772c7e3128f8d8ed
